@@ -1,0 +1,26 @@
+{
+    "ligue1":[
+        {
+            "psg":[
+                {
+                    "id":1,
+                    "first-name":"Lionel",
+                    "second-name":"Messi",
+                    "age":"35",
+                    "nationality":"argentina",
+                    "position":"delantero",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/PSG/messi.jpg?raw=true"
+                },
+                {
+                    "id":2,
+                    "first-name":"Neymar",
+                    "second-name":"",
+                    "age":"30",
+                    "nationality":"brasil",
+                    "position":"delantero",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/PSG/neymar.jpg?raw=true"
+                }
+            ]
+        }
+    ]
+}
