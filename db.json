@@ -8,7 +8,8 @@
                     "second_name":"Messi",
                     "age":"35",
                     "nationality":"argentina",
-                    "position":"delantero",
+                    "position":"delantero derecho",
+                    "precio":"50millones",
                     "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/messi.jpg?raw=true"
                 },
                 {
@@ -17,9 +18,201 @@
                     "second_name":"",
                     "age":"30",
                     "nationality":"brasil",
-                    "position":"delantero",
+                    "position":"delantero izquierdo",
+                    "precio":"75millones",
                     "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"
+                },
+                {
+                    "id":3,
+                    "first_name":"Kylian",
+                    "second_name":"Mbappé",
+                    "age":"23",
+                    "nationality":"francia",
+                    "position":"delantero central",
+                    "precio":"160millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"
+                },
+                {
+                    "id":4,
+                    "first_name":"Hugo",
+                    "second_name":"Ekitike",
+                    "age":"20",
+                    "nationality":"francia",
+                    "position":"delantero central",
+                    "precio":"28millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"   
+                },
+                {
+                    "id":5,
+                    "first_name":"Warren",
+                    "second_name":"Zaire-Emery",
+                    "age":"20",
+                    "nationality":"francia",
+                    "position":"centrocampista",
+                    "precio":"5millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":6,
+                    "first_name":"Vitinha",
+                    "second_name":"",
+                    "age":"22",
+                    "nationality":"portugal",
+                    "position":"centrocampista",
+                    "precio":"40millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":7,
+                    "first_name":"Marco",
+                    "second_name":"Verratti",
+                    "age":"30",
+                    "nationality":"italia",
+                    "position":"centrocampista",
+                    "precio":"50millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":8,
+                    "first_name":"Carlos",
+                    "second_name":"Soler",
+                    "age":"25",
+                    "nationality":"españa",
+                    "position":"centrocampista",
+                    "precio":"40millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":9,
+                    "first_name":"Pablo",
+                    "second_name":"Sarabia",
+                    "age":"30",
+                    "nationality":"españa",
+                    "position":"centrocampista",
+                    "precio":"22millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":10,
+                    "first_name":"Renato",
+                    "second_name":"Sanches",
+                    "age":"25",
+                    "nationality":"portugal",
+                    "position":"centrocampista",
+                    "precio":"28millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":11,
+                    "first_name":"Fabián",
+                    "second_name":"Ruiz",
+                    "age":"26",
+                    "nationality":"españa",
+                    "position":"centrocampista",
+                    "precio":"45millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":12,
+                    "first_name":"Danilo",
+                    "second_name":"pereira",
+                    "age":"31",
+                    "nationality":"portugal",
+                    "position":"centrocampista",
+                    "precio":"14millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":13,
+                    "first_name":"Sergio",
+                    "second_name":"Ramos",
+                    "age":"36",
+                    "nationality":"españa",
+                    "position":"defensa central",
+                    "precio":"6millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"    
+                },
+                {
+                    "id":14,
+                    "first_name":"Nordi",
+                    "second_name":"Mukiele",
+                    "age":"24",
+                    "nationality":"francia",
+                    "position":"defensa",
+                    "precio":"20millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"     
+                },
+                {
+                    "id":15,
+                    "first_name":"Nuno",
+                    "second_name":"Mendes",
+                    "age":"20",
+                    "nationality":"portugal",
+                    "position":"lateral izquierdo",
+                    "precio":"50millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"       
+                },
+                {
+                    "id":16,
+                    "first_name":"Marquinhos",
+                    "second_name":"",
+                    "age":"28",
+                    "nationality":"brasil",
+                    "position":"defensa central",
+                    "precio":"70millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"       
+                },
+                {
+                    "id":17,
+                    "first_name":"Presnel",
+                    "second_name":"Kimpembe",
+                    "age":"27",
+                    "nationality":"francia",
+                    "position":"defensa central",
+                    "precio":"40millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"         
+                },
+                {
+                    "id":18,
+                    "first_name":"Achraf",
+                    "second_name":"Hakimi",
+                    "age":"23",
+                    "nationality":"Marruecos",
+                    "position":"lateral derecho",
+                    "precio":"65millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"         
+                },
+                {
+                    "id":19,
+                    "first_name":"Juan",
+                    "second_name":"Bernat",
+                    "age":"29",
+                    "nationality":"españa",
+                    "position":"lateral izquierdo",
+                    "precio":"12millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"         
+                },
+                {
+                    "id":20,
+                    "first_name":"Gianluigi ",
+                    "second_name":"Donnarumma",
+                    "age":"23",
+                    "nationality":"italia",
+                    "position":"portero",
+                    "precio":"50millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"         
+                },
+                {
+                    "id":21,
+                    "first_name":"Keylor",
+                    "second_name":"Navas",
+                    "age":"35",
+                    "nationality":"costa rica",
+                    "position":"portero",
+                    "precio":"6millones",
+                    "photo":"https://github.com/webzonne/api-football/blob/main/Ligue%201/PSG/neymar.jpg?raw=true"         
                 }
+
             ]
         }
     
